@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("Hi, my name is Stephen");
 		System.out.println("My favourite colour is blue");
 		System.out.println("Deviating from the assignemnt a bit here because this thing is stupid... :)");
-		System.out.println("My favourite mode of transportation is certainly not Git Hub");
+		System.out.println("My favourite mode of transportation is anything that gets you there");
 	}
 
 }
