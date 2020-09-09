@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("My favourite mode of transportation is anything that gets you there");
 		System.out.println("The best day of the week is ... any day you don't have to use Git Hub");
 		System.out.println("Ok that's enough of this for now....");
+		System.out.println("Ok that's enough of this for now....");
 	}
 
 }
